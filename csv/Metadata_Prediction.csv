@@ -1,0 +1,556 @@
+title,score,choices,target,target_index,task_description
+The Chaco Waltz,"M:3/4
+L:1/4
+|""Gm""[G2B2][Ac]|[Bd][Ac][GB]|""D""[A/2c/2][A/2c/2][Ac][Bd]|[c3e3]|[^F2A2][GB]|
+[Ac][GB][FA]|""Gm""[G/2B/2][G/2B/2][GB][Ac]|[B3d3]|""Gm""[G2B2][Ac]|\
+[Bd][G/2B/2][A/2c/2][Bd]|
+""Cm""[c2e2][df]|[e3g3]|""D""[e/2g/2][d/2f/2][df][df]|[cf][ce][cf]|""Gm""[B3g3]|\
+[B3g3]|
+""Cm""[c2e2][df]|[eg][df][ce]|""Gm""[B2d2][ce]|[df][ce][Bd]|""D""[A2c2][Bd]|
+[ce][Bd][Ac]|""Gm""[G2B2][Ac]|""G7""[=B3d3]|\
+""C""[c2e2][df]|[eg][df][ce']|
+""G""[B2d2][ce]|""E""[df][ce][Bd]|""Am""[A2c2][Bd]|""D""[c2e2][cf]|""G""[B3g3]|[B3g3]:|","['D', 'Gm', 'Bb', 'F']",Bb,2,Identify the key signature of the provided ABC notation score.
+Castles in the Air,"M:4/4
+L:1/8
+P:A
+(3DEF|""G""G2GB ""D7""D2(3DEF|""G""GFGA ""G7""B4|""C""cBce ""G""dBAG|""A7""ABAG ""D7""E2(3DEF|
+""G""G2GB ""D7""D2(3DEF|""G""GFGA ""G7""B4|""C""cBce ""G""dBGA|""D7""BcBA ""G""G2:|
+P:B
+d2|""C""e2eg ""G""d3B|""D7""cBcd ""G""B4|""C""cBce ""G""dBAG|""A7""ABAG ""D7""E2(3DEF|
+""G""G2GB ""D7""D2(3DEF|""G""GFGA ""G7""B4|""C""cBce ""G""dBGA|""D7""BcBA ""G""G2:|","['Em', 'G', 'C', 'E']",G,1,Identify the key signature of the provided ABC notation score.
+Gilderoy,"M:4/4
+L:1/8
+P:A
+E2|""Am""A2AB cBcd|""Am""efec ""G""d2cd|""Am""edcB ABcA|""E7""B^GE2 E2(3E^FG|
+""Am""A^GAB cBcd|""Am""efec ""G""d2cd|""Am""ea^ga ""E7""edcB|""Am""c2A2 A2:|
+P:B
+ef|""C""g2ga gfef|""C""gfec ""G""d2cd|""Am""edcB ABcA|""E7""B^GE2 E2(3E^FG|
+""Am""A^GAB cBcd|""Am""efec ""G""d2cd|""Am""ea^ga ""E7""edcB|""Am""c2A2 A2:|","['E', 'G', 'Am', 'Dm']",Am,2,Identify the key signature of the provided ABC notation score.
+One More Dance \& Then,"M:2/4
+L:1/4
+B/2c/2 |:""G""d3/4e/4 d/2B/2|""G""g B/2c/2|""G""d3/4e/4 ""Em""d/2B/2|""Am""c/2 AB/4c/4\
+|""G""d3/4e/4 ""D""d/2B/2|""Em""g/2f/2 ""Bm""e/2d/2|""C""e/2d/2 ""D""c/2B/2|[1 ""G""B3/2 B/4c/4:|[2 ""G""B3/2||
+|:A/4B/4|""D""c/2A/2 f/2A/2|""D""a/2c/2 B/2A/2|""G""B/2G/2 d/2B/2|""G""g/2B/2 A/2G/2|\
+""A""a/2g/2 f/2e/2|""D""d/2c/2 B/2A/2|""G""G/2c/2 ""D""B/2A/2|""G""G3/2:|","['D', 'G', 'Bb', 'F']",G,1,Identify the key signature of the provided ABC notation score.
+Duncan's Waltz,"M:3/4
+L:1/4
+G|:""C""c2c|""G""dcA|""C""G/2c3/2E|""G""D3/2A/2G|""C""EGc|""F""A3/2G/2F|""C""EGe|""G""d2e/2d/2|
+""C""c2c|""G""dcA|""C""G/2c3/2E|""G""D3/2A/2G|""C7""EGc|""F""dfe|""G""dAB|""C""c2c|
+""G""d2g|""C""edc|""G""[dB][ec][fd]|""C""[e3c3]|""F""aef|""C""ged|""D""c/2A3/2e|\
+""G""d2e/2d/2|
+""C""c2c|""G""dcA|""C""G/2c3/2E|""G""D3/2A/2G|""C7""EGc|""F""dfe|""G""dAB|""C""c3:|
+""C""zF2|E2z|c3|c3|zF2|E3||","['Dm', 'Bb', 'G', 'C']",C,3,Identify the key signature of the provided ABC notation score.
+Madame Bonaparte,"M:4/4
+L:1/8
+P:A
+dc|""G""B2BA BdBG|""C""c2cB cecA|""G""GBdf ""Em""gfge|""Am""d3e ""D7""dcBA|
+""G""B2BA BdBG|""C""cBcd efge|""G""dBGB ""D7""cAFA|""G""G2GF G2:|
+P:B
+BA|""G""GBdf ""Em""gfge|""Am""d3e ""D7""dcBA|""G""GBdf""Em""gfge|""Am""d3e ""D7""dcBA|
+""G""BdGd BdGd|""Am""ceAe ceAd|""G""BdGd BdGA|""D7""FADA FADd|
+""G""BdGd BdGd|""C""cBcd efge|""G""dBGB ""D7""cAFA|""G""G2GF G2:|","['D', 'Em', 'G', 'A']",G,2,Identify the key signature of the provided ABC notation score.
+Jenny's Bawbee,"M:4/4
+L:1/8
+P:A
+fg|""D""abag f/2d3/2(3def|""G""gBed ""A7""c/2A3/2A2|""D""abag f/2d3/2df|\
+""G""B/2d3/2""A7""c/2e3/2 ""D""d2:|
+P:B
+de|""D""fd""G""ge ""D""f/2d3/2(3def|""G""gBed ""A7""c/2A3/2A2|""D""fd""G""ge ""D""f/2d3/2df|\
+""G""B/2d3/2""A7""c/2e3/2 ""D""d2:|","['D', 'Gm', 'C', 'G']",D,0,Identify the key signature of the provided ABC notation score.
+Orange in Bloom,"N:A(ABBB)2(ACCC)2B
+M:6/8
+P:A
+""D""dcd f2e|""G""d2B BdB|""D""ABA d2e|""D""fdd ""A7""d2A|
+""D""dcd f2e|""G""d2B BdB|""D""ABA d2e|fdd d3||
+P:B
+""D""fdf a2f|""A7""ede ""D""f3|""D""faf ""A""ede|""Bm""fdB ""A7""A2A|
+""D""dcd f2e|""G""d2B BdB|""D""ABA d2e|fdd d3||
+P:C
+""D""fdf a2f|""A7""ede ""D""f3|\
+M:4/4
+L:1/4
+""D""fa f2|""A""ed e2|""Bm""fd B2|\
+M:6/8
+L:1/8
+""A7""A3 A3 |
+""D""dcd f2e |""G""d2B BdB |""D""ABA d2e |fdd d3 ||","['C', 'A', 'F', 'D']",D,3,Identify the key signature of the provided ABC notation score.
+Morris Off,"M:4/4
+L:1/4
+d|""G""g/2f/2g/2e/2 dg|""Am""a/2g/2f/2e/2 ""D""d2|""C""c'a ""G""bg|""D""a/2g/2f/2e/2 d2|
+""Em""g/2f/2g/2e/2 dg|""C""a/2g/2f/2e/2 ""D""d2|""C""c'/2b/2a/2g/2 ""D7""f/2d/2e/2f/2|\
+""G""gb g:|","['C', 'D', 'G', 'Gm']",G,2,Identify the key signature of the provided ABC notation score.
+Black Boy,"M:2/4
+L:1/4
+|:""A""A ""E""c/4B/4A/4G/4|""A""A/2c/2 e/2a/2|""E""g/2b/2 e/2d/2|""A""c/2AB/2|\
+""A""c/2e/2 ""B""^d/2f/2|""E""e/2ge/2|""B""f/2a/2 g/4f/4e/4^d/4|""E""e E:|
+|:""A""e/2=gf/2|""D""f/4e/4d/4c/4 d|""E""B/2df/2|""A""e/4d/4c/4B/4 c|""F#m""A/2ce/2|\
+""Bm""d/4c/4B/4A/4 ""E""G/2B/2|""Bm""E/2d/2 ""E""c/4B/4A/4G/4|""A""A2:|
+M:6/8
+|:""D""dd/2 cd/2|""A""e/2f/2e/2 e/2f/2g/2|""D""dd/2 ""E""cd/2|""A""e/2c/2A/2 AA/2|
+""D""dd/2 cd/2|""A""e/2f/2d/2 e/2f/2g/2|""D""a/2f/2d/2 ""A""g/2e/2c/2|[1 ""D""dd/2 d A/2:|[2 ""D""dd/2 de/2||
+|:""D""ff/2 f/2d/2f/2|""Em""gg/2 g/2e/2g/2|""D""ff/2 f/2d/2f/2|""A""e/2c/2A/2 Ag/2|
+""D""f/2a/2f/2 ""Bm""d/2e/2f/2|""Em""g/2b/2g/2 ""A""e/2f/2g/2|\
+""D""a/2f/2d/2 ""A""g/2e/2c/2|[1 ""D""dd/2 d e/2:|[2""D"" dd/2 d3/2||","['Bb', 'A', 'E', 'C']",A,1,Identify the key signature of the provided ABC notation score.
+Winster Processional,"M:4/4
+L:1/4
+d|""G""gd ""D7""de/2f/2|""G""gd ""D7""de/2f/2|""G""gd ""D7""dc|[1""G""B2 G:|[2""G"" B2 G2 ||
+|:""C""ce ed/2c/2|""G""Bd dc/2B/2|""D7""A3/2B/2 cd|""G""B2 ""G7""G2:|","['Em', 'E', 'G', 'C']",G,2,Identify the key signature of the provided ABC notation score.
+Down the Glen,"M:4/4
+L:1/8
+P:A
+A2|""D""DDFA ""G""BA(3Bcd|""D""DDFA d2(3cd^d|""A""eAce ""D""fe(3f^ga|
+""Em""(3efe(3dcB ""A7""(3ABA(3GFG|""D""ADFA ""G""BA(3Bcd|
+""D""DDFA d2(3cd^d|""A""eAce ""D""faec|""A7""dedc ""D""d2:|
+P:B
+(3cd^d|""A""eAce ""D""fe(3f^ga|""A""eAce ""D""fe(3f^ga|
+""A""ea^gf ""E7""edcB|""A""(3Ace(3aec ""A7""A2G2|""D""(3FEDFA dfaf|
+""G""gBdg bbag|""D""(3fafdf ""A""edce|""D""df(3edc d2:|","['D', 'Em', 'Gm', 'C']",D,0,Identify the key signature of the provided ABC notation score.
+The Scotch Ramble,"M:4/4
+L:1/4
+""A""A/4A/4A/2A/2c/2 e/2c/2A/2c/2|""E""B/4B/4B/2G/2B/2 dc/2B/2|\
+""A""A/4A/4A/2A/2c/2 e/2c/2""E""d/2B/2|""A""c3/4e/4""E""B/2c/2 ""A""A/4A/4A/2A:|
+""A""c/2e/2e/2f/4g/4 ae/2c/2|a/2e/2c/2A/2 ""E""B/4B/4B/2B/2d/2|\
+""A""c/2A/2e/2A/2 a/2e/2c/2A/2|c3/4e/4""E""B/2c/2 ""A""A/4A/4A/2A:|","['G', 'A', 'F', 'Bb']",A,1,Identify the key signature of the provided ABC notation score.
+Washtap Reel,"M:4/4
+L:1/4
+P:A
+DE \
+P:B
+|:""G""G2 AG|ED EG|B3/2d/2 gB|""D""BA Bd|
+""C""e3/2f/2 ge|""G""dB ""D""cA|[1""G""G3/2A/2 BG|""D7""=F2DE:|[2""G""G3/2B/2 ""D""dD|""G""G3z||
+P:C
+|:""Bm""d^c ""C#""Bd|""F#""^cg fe|""Bm""d3/2^c/2 ""E""Bd|""A""^cA A2|\
+""Am""c3/2B/2 ""D""Ad|""G""Bd ""Em""eg|""A""ag fe|""D"" d2 DE:|","['A', 'G', 'D', 'Am']",G,1,Identify the key signature of the provided ABC notation score.
+Roxburgh Castle,"M:4/4
+L:1/8
+P:A
+cB|""A""AGAc ecAc|""D""dcdf ""A""ecAc|""D""d2(3fed ""A""c2a2|""Bm""B2Bc ""E7""BdcB|
+""A""AGAc ecAc|""D""dcdf ""A""ec(3Ace|""A""agaf ""E7""edcB|""A""c2A2 A2:|
+P:B
+e2|""A""aece fece|""A""aece fece|""D""d2b2 ""A""c2a2|""Bm""B2Bc ""E7""BdcB|
+""A""AGAc ecAc|""D""dcdf ""A""ec(3Ace|""A""agaf ""E7""edcB|""A""c2A2 A2:|","['D', 'A', 'E', 'Bb']",A,1,Identify the key signature of the provided ABC notation score.
+Londonderry Hornpipe,"M:4/4
+L:1/8
+P:A
+AG|""D""F2Ad fdAF|""G""G2Bd gdBG|""D""F2Ad fdAF|""Em""E2GB ""A7""(3edcAG|
+""D""F2Ad fdAF|""G""G2Bd g2ag|""D""fafd ""A7""Bgec|""D""d2f2 d2:|
+P:B
+fg|""D""a2fd Adfa|""Em""g2ec ""A7""Aceg|""D""a2fd Adgf|""G""(3efd""E7""(3cdB ""A7""A2fg|
+""D""a2fd Adfa|""Em""gece ""A7""g2ag|""D""fafd ""A7""Bgec|""D""d2f2 d2:|
+P:C
+AG|""D""(3FEDAD BDAD|""D""dcdf ""A7""ecAG|
+""D""(3FEDAD BDAD|""G""EGFA ""A7""GBAG|""D""(3FEDAD BDAD|
+""D""dcdf ""A7""edeg|""D""(3fafdf ""A7""gece|""D""df(3edc d2:|
+P:D
+(3fg^g|""D""a^gab afdf|""Em""gfga ""A7""gece|""D""a^gab afdf|
+""G""(3efd""E7""(3cdB ""A7""A2(3fg^g|""D""a^gab afdf|""G""gfef ""A7""gbag|
+""D""dcdf ""A7""edeg|""D""(3fafdf ""A7""gece:|
+P:E
+fg|""D""(3aaafd Adfd|""Em""(3gggec ""A7""Acec|""D""fdge afbg|""A""ec""E7""dB ""A7""A2fg|
+""D""(3aaafd Adfd|""Em""(3gggec ""A7""A2ag|""D""fdAF ""A7""Egec|""D""d2f2 d2:|
+P:F
+FG|""D""AFAd fedc|""G""BGBe ""Em""gfed|""A7""cAce agfe|""D""fcdB ""A7""A2FG|
+""D""AFAd fedc|""G""BGBe ""Em""g2ag|""D""fafd ""A7""Bgec|""D""d2f2 d2:|","['D', 'F', 'Bb', 'Em']",D,0,Identify the key signature of the provided ABC notation score.
+Gipsy's Hornpipe,"M:4/4
+L:1/8
+P:A
+d2|""G""gfed edBd|""C""ed(3efg ""G""B2BA|""Em""GFGA BABd|""Am""e2A2 ""D7""A2(3def|
+""G""gfed edBd|""C""ed(3efg ""G""B2BA|""G""GFGA ""D""BcBA|""Em""G2E2 E2:|
+P:B
+gf|""Em""e2B2 B2gf|""Em""e2B2 B2gf|""Em""edef ""B7""gfga|""Em""b2e2 ""D7""e2ga|
+""G""bgaf g2gf|""C""ed(3efg ""G""B2BA|""G""GFGA ""D""BcBA|""Em""G2E2 E2:|","['G', 'C', 'A', 'Em']",G,0,Identify the key signature of the provided ABC notation score.
+King of the Fairies,"P:AAB
+M:4/4
+L:1/8
+P:A
+B2|""Em""EDEF GFGA|""Em""B4 ""B7""GFGA|""Em""B2E2 EFGE|""D""FGFE D2B,2|
+""Em""EDEF ""C""GFGA|""G""BAGB d2(3d^c=c|""Em""B2E2 ""D""GFED|""Em""E4 E2:|
+P:B
+B2|""Em""e2e2 Bdef|""Em""gagf egfe|""Bm""d2B2 BAB^c|""Bm""ded^c BcdB|
+""Em""e2e2 Bdef|""Em""gagf efed|""Em""Bdeg ""Bm""fedf|""Em""e4 -edef|
+""Em""g3e ""D""f3d|""G""edB^c ""D""d3e|""G""dBAF ""D""GAB^c|""G""dBAF ""D""GFED|
+""Em""B,2E2 EFGA|""Em""B2e2 ""B7""edef|""Em""e2B2 ""D""BAGF|""Em""E4 E2||","['Em', 'Gm', 'D', 'E']",Em,0,Identify the key signature of the provided ABC notation score.
+Abram Circle,"M:4/4
+L:1/4
+Q:1/4=180
+D|:""G""GB/2c/2 ""D7""de/2f/2|""G""ga ""Em""b2|""G""gd ""D7""d/2e/2d/2c/2|""G""B2 G2:||:
+""C""ec eg/2e/2|""G""dB d2|""D7""Ad d/2e/2d/2c/2|[1""G""B2 ""G7""d2:|[2""G""B2 G2||
+M:6/8
+L:1/8
+Q:1/4=135
+|:""D7""d2c""G""BAG |\
+""D7""d2c""G""BAG |""C""e2dcBc |""C""e3g3 :|
+""C""e2dcBc |""C""e3g3 |""Am""e2dcBc |""Am""e3gfe
+|:""D""d2ef2g |""D""a2gfed |""C""e2g""D7""f2a |[1""G""g3gfe :|[2""G""g3G3||
+M:4/4
+L:1/4
+Q:1/4=180
+|:""G""GG/2G/2 BB|""G""dd g2|""G""dB ""C""d/2c/2A/2B/2|""Am""cA ""D7""G/2F/2E/2D/2|
+M:4/4
+L:1/4
+""G""GG/2G/2 BB|""G""dd g2|""G""dB ""D7""d/2c/2A/2F/2|[1""G""G2 GD:|[2""G""G2 Gd/2c/2||
+|:""G""BG Bd|""D7""A3d/2c/2|""G""BG Bd|""D7""A3d/2c/2|""G""BG Bd|
+""D7""A3/2B/2 AB/2c/2|""G""dB/2c/2 ""D7""d/2c/2B/2A/2|[1""G""G2 Gd/2c/2:|[2""G""G3||","['Am', 'F', 'E', 'G']",G,3,Identify the key signature of the provided ABC notation score.
+Fisher's Hornpipe,"M:4/4
+L:1/8
+P:A
+(3ABc|""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FDFD ""A7""GEGE|""D""FDFD ""A7""EA(3ABc|
+""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FAdA ""A7""fedc|""D""d2f2 d2:|
+P:B
+cd|""A7""ecAc ecge|""D""fdAd fdaf|""A""ecAc ecgf|""E7""edcB ""A""A2A2|
+""G""BGDG BGdB|""D""AFDF AFdA|""G""BdcB ""A7""AGFE|""D""D2F2 D2:|","['E', 'Am', 'D', 'G']",D,2,Identify the key signature of the provided ABC notation score.
+A and A's Waltz,"L:1/4
+K:G
+e|:""G""d2B|""D""A3/2B/2c|""G""B2G|""D""A2e|""G""d2B|""D""A3/2B/2c|
+""F""B=F|
+""G""G2e:||:
+""C""g2e|""Bb""=f2d|""F""c2A|=F2e|""C""g2e|""Bb""=f2d|
+""F""cA|
+ [1 ""G""G2e:| [2""G""G2z||","['4/4', '2/4', '6/4', '3/4']",3/4,3,Identify the time signature of the provided ABC notation score.
+Down the Glen,"L:1/8
+K:D
+P:A
+A2|""D""DDFA ""G""BA(3Bcd|""D""DDFA d2(3cd^d|""A""eAce ""D""fe(3f^ga|
+""Em""(3efe(3dcB ""A7""(3ABA(3GFG|""D""ADFA ""G""BA(3Bcd|
+""D""DDFA d2(3cd^d|""A""eAce ""D""faec|""A7""dedc ""D""d2:|
+P:B
+(3cd^d|""A""eAce ""D""fe(3f^ga|""A""eAce ""D""fe(3f^ga|
+""A""ea^gf ""E7""edcB|""A""(3Ace(3aec ""A7""A2G2|""D""(3FEDFA dfaf|
+""G""gBdg bbag|""D""(3fafdf ""A""edce|""D""df(3edc d2:|","['3/4', '4/4', '6/4', '6/8']",4/4,1,Identify the time signature of the provided ABC notation score.
+Proudlocks's Variation,"L:1/8
+K:G
+P:A
+D2|""G""(3GED(3GAB ""D7""(3AFD(3ABA|""G""(3GBd(3gfg ""C""(3agf(3edc|
+""G""(3Bcd(3BAG ""D7""(3ABc(3AGF|""G""(3GFG(3AGF ""D7""(3GFE(3DEF|
+""G""(3GED(3GAB ""D7""(3AFD(3ABA|""G""(3GBd(3gfg ""C""(3agf(3edc|
+""G""(3Bcd(3BAG ""D7""(3ABc(3AGF|""G""(3GFE(3DEF (3GDB:|
+P:B
+Bc|""G""(3d^cd(3edc ""Em""(3Bcd(3GAB|""Am""(3cBc(3dcB ""D7""(3AGF(3DBc|
+""G""(3d^cd(3edc ""Em""(3Bcd(3GAB|""A7""(3A^ce(3a_ag ""D7""(3fed(3cBA|
+""G""(3GED(3GAB ""D7""(3AFD(3ABA|""G""(3GBd(3gfg ""C""(3agf(3edc|
+""G""(3Bcd(3BAG ""D7""(3ABc(3AGF|""G""(3GFE(3DEF (3GDB:|G2","['3/4', '6/8', '2/4', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+Roman Reel,"L:1/4
+K:A
+""A""e3/4A/4 a3/4e/4|""D""f3/4e/4 d3/4c/4|""E""B3/4c/4 d3/4e/4|""A""c3/4B/4 A3/4e/4|\
+""A""e3/4A/4 a3/4e/4|""D""f3/4e/4 d3/4c/4|""E""B3/4d/4 c3/4B/4|""A""A3/2e/2:|
+|:""E""B3/4d/4 ""A""c3/4e/4|""Bm""d3/4c/4 ""E""B3/4c/4|""A""c3/4e/4 ""D""d3/4f/4|\
+""A""e3/4d/4 ""E""c3/4e/4|""A""e3/4c/4 a3/4e/4|""D""f3/4e/4 d3/4c/4|""E""B3/4d/4 c3/4B/4|""A""A3/2e/2:|","['6/4', '3/4', '2/4', '4/4']",2/4,2,Identify the time signature of the provided ABC notation score.
+Barn Dance 2,"L:1/8
+K:G
+P:A
+d2|""G""D2EF G2B_B|""G""(3ABAGA Bd3|""C""g2fe ""G""dBGB|""Am""AEFG ""D7""A2d2|
+""G""D2EF G2B_B|""G""(3ABAGA Bd3|""C""g2fe ""G""dBGB|""D7""AGAB ""G""G2:|
+P:B
+(3def|""G""gfga gdBc|""G""dedB ""D7""d2(3def|
+""G""gfga gdBc|""G""dedB ""D7""A2ef|""G""gfga gdBc|
+""G""dedB ""D7""d2(3def|""G""(3gag(3fgf ""C""(3efe(3ded|""Am""(3cdc(3BcB""D7""A2","['6/8', '3/4', '2/4', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+Steam-boat Hornpipe,"L:1/8
+K:G
+P:A
+(3def|""G""g2bg d2gd|""G""BcdB G2AB|""C""c2ec ""Am""A2cA|""D7""FGAB cdef|
+""G""g2bg d2gd|""G""BcdB G2AB|""C""cedc ""D7""BAGF|""G""A2G2 G2:|
+P:B
+Bc|""G""dBdB g2gd|""Am""ecec a2ag|""D7""fefd ""G""gfgb|""A7""agfe ""D7""defd|
+""G""g2bg d2gd|""G""BcdB G2AB|""C""cedc ""D7""BAGF|""G""A2G2 G2:|","['3/4', '4/4', '2/4', '6/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+Jenny's Bawbee,"L:1/8
+K:D
+P:A
+fg|""D""abag f/2d3/2(3def|""G""gBed ""A7""c/2A3/2A2|""D""abag f/2d3/2df|\
+""G""B/2d3/2""A7""c/2e3/2 ""D""d2:|
+P:B
+de|""D""fd""G""ge ""D""f/2d3/2(3def|""G""gBed ""A7""c/2A3/2A2|""D""fd""G""ge ""D""f/2d3/2df|\
+""G""B/2d3/2""A7""c/2e3/2 ""D""d2:|","['6/8', '4/4', '6/4', '2/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+Lord Moira,"P:AAB
+L:1/8
+K:G
+P:A
+B/2A/2|""G""G2G2 B/2d3/2dB|""C""cABG ""D7""AG(3FED|""G""G2G2 B/2d3/2d2|\
+""C""(3efg""D7""(3fga ""G""g2g:|
+P:B
+d|""G""gabg ""D""agf/2d3/2|""C""efge ""G""dBA/2G3/2|""G""gabg ""D""agf/2d3/2|\
+""C""(3efg""D7""(3fga ""G""g2(3gab|
+""C""c'a""G/b""bg ""Am""ag""D""fd|""C""efge ""D7""dcB/2A3/2|""G""G2G2 B/2d3/2d2|\
+""C""(3efg""D7""(3fga ""G""g2g||","['6/4', '4/4', '2/4', '3/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+Princess Royal,"L:1/4
+K:Gm
+P:A
+d/2c/2|""Gm""B""D""A ""Gm""Gd/2c/2|""Gm""B""D""A ""Gm""GB/2d/2|""Cm""ec c/2d/2e/2c/2|\
+""Gm""dd/2c/2 B/2A/2B/2d/2|cB AG|""Bb/d""F/2G/2F/2D/2 Bd/2c/2|""Cm""BA/2G/2 ""D7""Fd|""Gm""G2 G:|
+P:F
+G|
+P:B
+""Gm""bb ba/2b/2|""Cm""c'c c2|""Gm""b/2a/2g/2f/2 ""Cm""e/2d/2c/2B/2|""F""A/2c/2F F""D7""^F\
+|""Gm""GG/2A/2 ""D7""B/2B/2B/2c/2|
+""Gm""dd g2|""Dm""fd ""Cm""e2|""Dm""dB ""Cm""c2|""Gm""d/2c/2B/2A/2 ""D7""G/2A/2B/2c/2|\
+""Gm""dG Gd/2c/2|""Cm""BA/2G/2 ""D7""Fd|""Gm""G4:|
+P:C
+""Gm/bb""dc ""Cm""B2|""D7""A2 ""Gm""G2|""Gm/bb""dc ""Cm""B2|""D7""A2 ""Gm""G2|""Gm/bb""Bd ""Cm""e2\
+|""Cm""c2 cd|""Cm""ec ""Gm""d2|
+""Gm""B2 B/2A/2B/2d/2|cB AG|""Bb/d""F/2G/2F/2D/2 Bd/2c/2|\
+""Cm""BA/2G/2 ""D7""Fd|""Gm""G4:|","['2/4', '6/4', '3/4', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+Verdi's Waltz,"L:1/4
+K:C
+P:A
+""C""[C2E2][DF]|[E3G3]|""F""[F2A2][GB]|[A3c3]|""G""[B2d2][ce]|[d3f3]|""C""[c2e2][df]|\
+[e3g3]|""C""[e2g2][fa]|[e2g2][df]|""F""[c2e2][Bd]|[A2c2][GB]|""G""[F2A2][EG]|\
+[D2F2][CE]|""C""[C3E3]|[C3E3]:|
+P:B
+""E""[^G2e2][Af]|[^G2e2][Fd]|[E2c2][Fd]|[E2c2][DB]|
+[C2A2][DB]|[E2c2][DB]|""Am""[C3A3]|[C3G3A3]|""Dm""[F2d2][Ge]|[F2d2][Ec]|
+[D2B2][Ec]|[D2B2][CA]|[B,2G2][CA]|[B,2G2][A,F]|[G,2E2][G,D]|""G"" [G,3D3]||","['6/8', '3/4', '2/4', '4/4']",3/4,1,Identify the time signature of the provided ABC notation score.
+Humours of California,"L:1/8
+K:G
+(3DEF|""G""GFGB ""D7""AGED|""G""GBdg ""C""e2""D7""(3def|""G""gfgd ""Em""edBG|\
+""Am""ABAG ""D7""E2(3DEF|
+""G""GFGB ""D7""AGED|""G""GBdg ""C""e2""D7""(3def|""G""gfgd ""Em""edBG|""D7""(3ABAGF ""G""G2:|
+(3def|""Em""gfeg ""D""fedf|""C""edef ""G""edBd|""Em""gfgd edBG|""Am""ABAG ""D7""E2(3DEF|
+""G""GFGB ""D7""AGED|""G""GBdg ""C""e2""D7""(3def|""G""gfgd ""Em""edBG|""D7""(3ABAGF ""G""G2:|","['3/4', '2/4', '4/4', '6/4']",4/4,2,Identify the time signature of the provided ABC notation score.
+King of the Fairies,"P:AAB
+L:1/8
+K:Em
+P:A
+B2|""Em""EDEF GFGA|""Em""B4 ""B7""GFGA|""Em""B2E2 EFGE|""D""FGFE D2B,2|
+""Em""EDEF ""C""GFGA|""G""BAGB d2(3d^c=c|""Em""B2E2 ""D""GFED|""Em""E4 E2:|
+P:B
+B2|""Em""e2e2 Bdef|""Em""gagf egfe|""Bm""d2B2 BAB^c|""Bm""ded^c BcdB|
+""Em""e2e2 Bdef|""Em""gagf efed|""Em""Bdeg ""Bm""fedf|""Em""e4 -edef|
+""Em""g3e ""D""f3d|""G""edB^c ""D""d3e|""G""dBAF ""D""GAB^c|""G""dBAF ""D""GFED|
+""Em""B,2E2 EFGA|""Em""B2e2 ""B7""edef|""Em""e2B2 ""D""BAGF|""Em""E4 E2||","['2/4', '6/8', '6/4', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+Shetland Polka,"L:1/8
+K:G
+P:A
+(3DEF|""G""G2F2 E2D2|""D7""ABcA ""G""dBG2|""C""e2d2 ""Am""c2B2|""A7""ABAG ""D7""FAd2|
+""G""G2F2 E2D2|""D7""ABcA ""G""dBG2|""C""e/2g3/2g2 ""G""d/2g3/2g2|""Am""G2""D7""F2 ""G""G2||
+P:B
+(3def|""G""g2f2 ""C""ef(3gfe|""G""d2B2 ""D7""AB(3cBA|""G""G2G2 ""Em""GABA|\
+""A7""G2A2 ""D7""A2(3def|
+""G""g2f2 ""C""ef(3gfe|""G""d2B2 ""D7""AB(3cBA|""G""G2G2 ""Em""GABA|""D7""G2F2 ""G""G2||","['6/8', '4/4', '2/4', '6/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+Fisher's Hornpipe,"L:1/8
+K:D
+P:A
+(3ABc|""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FDFD ""A7""GEGE|""D""FDFD ""A7""EA(3ABc|
+""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FAdA ""A7""fedc|""D""d2f2 d2:|
+P:B
+cd|""A7""ecAc ecge|""D""fdAd fdaf|""A""ecAc ecgf|""E7""edcB ""A""A2A2|
+""G""BGDG BGdB|""D""AFDF AFdA|""G""BdcB ""A7""AGFE|""D""D2F2 D2:|","['3/4', '6/4', '4/4', '2/4']",4/4,2,Identify the time signature of the provided ABC notation score.
+Colosseum,"L:1/8
+K:A
+P:A
+E2|""A""A2A2 ""E7""AcBd|""A""c2c2 ""D""cedf|""A""eagf edcB|""A""ABcA ""E7""dBGE|
+""A""A2A2 ""E7""AcBd|""A""c2c2 ""D""cedf|""A""eagf ""E7""edcB|""A""A2a2 A2:|
+P:B
+e2|""A""ceAe ceAe|""Bm""dfBf dfBf|""A""ceAe ceAc|""B7""BAGF ""E7""E2e2|
+""A""ceAe ceAe|""Bm""dfBf dfBf|""A""eagf ""E7""edcB|""A""A2a2 A2:|","['6/8', '4/4', '6/4', '2/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+John Peel,"L:1/8
+K:A
+P:A
+cd|""A""e2e2 c2cd|""A""e2e2 c2Bc|""E7""d2d2 B2Bc|""E7""d2d2 B2cB|
+""A""A2A2 a3a|""D""g2f2 ""A""e2dc|""D""f2dB ""A""A2GA|""E7""B4 ""A""A2:|","['6/4', '2/4', '6/8', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+One More Dance \& Then,"L:1/4
+K:G
+B/2c/2 |:""G""d3/4e/4 d/2B/2|""G""g B/2c/2|""G""d3/4e/4 ""Em""d/2B/2|""Am""c/2 AB/4c/4\
+|""G""d3/4e/4 ""D""d/2B/2|""Em""g/2f/2 ""Bm""e/2d/2|""C""e/2d/2 ""D""c/2B/2|[1 ""G""B3/2 B/4c/4:|[2 ""G""B3/2||
+|:A/4B/4|""D""c/2A/2 f/2A/2|""D""a/2c/2 B/2A/2|""G""B/2G/2 d/2B/2|""G""g/2B/2 A/2G/2|\
+""A""a/2g/2 f/2e/2|""D""d/2c/2 B/2A/2|""G""G/2c/2 ""D""B/2A/2|""G""G3/2:|","['6/8', '4/4', '6/4', '2/4']",2/4,3,Identify the time signature of the provided ABC notation score.
+Fieldtown Processional,"L:1/4
+K:G
+P:A
+G/2A/2|""G""BA BG|""Am""AA A2|""D7""cB/2c/2 Ac|""G""BG ""D7""G2|""G""B/2c/2d ""C""ef|""G""gd ""C""ec|\
+""G""BG ""D7""AF|""G""G2 G:|
+P:B
+d|""G""g2 gf|""C""fe e2|""A7""a3/2b/2 ag|""D7""fd d2|""G""gf gf|""C""ed eg|""D""fd ""A7""e^c|\
+""D7""dcB||","['3/4', '4/4', '6/8', '2/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+Beaux of Oakhill,"L:1/8
+K:D
+P:A
+dB|""D""BAFA DAFA|""G""BA(3Bcd ""A7""e2de|""D""fgaf ""A7/e""egfe|""D/f+""dfed ""G""B2dB|
+""D""BAFA DAFA|""G""BA(3Bcd ""A""e2de|""Bm""faaf ""A7/c+""egfe|""D""d2f2 d2:|
+P:B
+fg|""D""afdf a2gf|""Em""efga ""A7""b2ag|""D""fgaf ""A7/e""egfe|""D/f+""dfed ""G""B2dB|
+""D""BAFA DAFA|""G""BA(3Bcd ""A""e2de|""Bm""faaf ""A7/c+""egfe|""D""d2f2 d2:|","['3/4', '4/4', '6/4', '2/4']",4/4,1,Identify the time signature of the provided ABC notation score.
+King of the Fairies,"P:AAB
+L:1/8
+K:Em
+P:A
+B2|""Em""E2EF G2GA|""Em""B2B2 GFGA|""Em""B2E2 EFGE|""D""FGAF D2B,2|
+""Em""EDEF ""C""GFGA|""G""BAGB d2dc|""Em""B2E2 ""D""GFED|""Em""E4 E2:|
+P:B
+B2|""Em""efed B2B2|""Em""efed B2g2|""D""fgaf d2g2|""D""fgaf d2ga|
+""G""b2gb ""D/f+""a2fa|""Em""g2eg ""D""f2df|""C""e2ef ""B7""gfed|""C""e2ef ""B7""g2g2|
+""Em""efed B2B2|""Em""efed B2B2|""G""dcBA ""Am""cBAG|""D7""FGAF D2EF|
+""G""GFGA BABd|""C""edef g2e2|""G""dcBA ""B7""BAGF|""Em""E4 E2||","['2/4', '3/4', '6/8', '4/4']",4/4,3,Identify the time signature of the provided ABC notation score.
+Puddlegum's Misery,"M:4/4
+K:Am
+P:A
+(3G_GF|""E7""E2e2 _e2d2|""Am""cBAB c2BA|""E7""^GEGB eBGE|""Am""AEAc ecAc|
+""E7""E2e2 _e2d2|""Am""cBAB ""F""c2BA|""E7""^GEGB edcB|""Am""A2A2 A2:|
+P:B
+(3B_BA|""G7""G2g2 _g2f2|""C""edcd e2dc|""G7""BGBd gdBd|""C""cBcd edcA|
+""G7""G2g2 _g2f2|""C""edcd e4|""E7""(3EFE^DE edcB|""Am""A2A2 A2:|","['1/4', '1/8', '1/2', '1/16']",1/8,1,Identify the unit note length of the provided ABC notation score.
+The Friendly Visit,"M:4/4
+K:G
+P:A
+BA|""G""(3GFGDG BGBd|""C""(3cBcAB ""D7""cdef|""G""g2df ""C""ecAG|""Am""FGAB ""D7""cAFD|
+""G""(3GFGDG BGBd|""C""(3cBcAB ""D7""cdef|""G""gdBG ""D7""FAdc|""G""B2G2 G2:|
+P:B
+(3GBd|""G""g2dB GBdg|""Am""e2cA FGAg|""D""f2ed ""A7""^cdeg|""D7""(3fgf(3efe dcBA|
+""G""(3GFGDG BGBd|""C""(3cBcAB ""D7""cdef|""G""gdBG ""D7""FAdc|""G""B2G2 G2:|","['1/2', '1/16', '1/8', '1/4']",1/8,2,Identify the unit note length of the provided ABC notation score.
+John Peel,"M:4/4
+K:A
+P:A
+cd|""A""e2e2 c2cd|""A""e2e2 c2Bc|""E7""d2d2 B2Bc|""E7""d2d2 B2cB|
+""A""A2A2 a3a|""D""g2f2 ""A""e2dc|""D""f2dB ""A""A2GA|""E7""B4 ""A""A2:|","['1/4', '1/8', '1/16', '1/2']",1/8,1,Identify the unit note length of the provided ABC notation score.
+Roxburgh Castle,"M:4/4
+K:A
+P:A
+cB|""A""AGAc ecAc|""D""dcdf ""A""ecAc|""D""d2(3fed ""A""c2a2|""Bm""B2Bc ""E7""BdcB|
+""A""AGAc ecAc|""D""dcdf ""A""ec(3Ace|""A""agaf ""E7""edcB|""A""c2A2 A2:|
+P:B
+e2|""A""aece fece|""A""aece fece|""D""d2b2 ""A""c2a2|""Bm""B2Bc ""E7""BdcB|
+""A""AGAc ecAc|""D""dcdf ""A""ec(3Ace|""A""agaf ""E7""edcB|""A""c2A2 A2:|","['1/16', '1/4', '1/2', '1/8']",1/8,3,Identify the unit note length of the provided ABC notation score.
+Manchester,"M:4/4
+K:D
+P:A
+(3ABc|""D""dcdA FAdf|""Em""edcB ""A7""A2g2|""D""fgaf ""G""gfed|""Em""edcB ""A7""Agfe|
+""D""dcdA FAdf|""Em""edcB ""A7""A2g2|""D""fgaf ""A7""bgec|""D""d2f2 d2:|
+P:B
+fg|""D""afaf d2ga|""G""bgbg ""A7""e2fg|""D""afba ""G""gfed|""Em""edcB ""A7""Agfe|
+""D""dcdA FAdf|""Em""edcB ""A7""A2g2|""D""fgaf ""A7""bgec|""D""d2f2 d2:|","['1/8', '1/4', '1/2', '1/16']",1/8,0,Identify the unit note length of the provided ABC notation score.
+King of the Fairies,"P:AAB
+M:4/4
+K:Em
+P:A
+B2|""Em""EDEF GFGA|""Em""B4 ""B7""GFGA|""Em""B2E2 EFGE|""D""FGFE D2B,2|
+""Em""EDEF ""C""GFGA|""G""BAGB d2(3d^c=c|""Em""B2E2 ""D""GFED|""Em""E4 E2:|
+P:B
+B2|""Em""e2e2 Bdef|""Em""gagf egfe|""Bm""d2B2 BAB^c|""Bm""ded^c BcdB|
+""Em""e2e2 Bdef|""Em""gagf efed|""Em""Bdeg ""Bm""fedf|""Em""e4 -edef|
+""Em""g3e ""D""f3d|""G""edB^c ""D""d3e|""G""dBAF ""D""GAB^c|""G""dBAF ""D""GFED|
+""Em""B,2E2 EFGA|""Em""B2e2 ""B7""edef|""Em""e2B2 ""D""BAGF|""Em""E4 E2||","['1/2', '1/4', '1/16', '1/8']",1/8,3,Identify the unit note length of the provided ABC notation score.
+Madame Bonaparte,"M:4/4
+K:G
+P:A
+dc|""G""B2BA BdBG|""C""c2cB cecA|""G""GBdf ""Em""gfge|""Am""d3e ""D7""dcBA|
+""G""B2BA BdBG|""C""cBcd efge|""G""dBGB ""D7""cAFA|""G""G2GF G2:|
+P:B
+BA|""G""GBdf ""Em""gfge|""Am""d3e ""D7""dcBA|""G""GBdf""Em""gfge|""Am""d3e ""D7""dcBA|
+""G""BdGd BdGd|""Am""ceAe ceAd|""G""BdGd BdGA|""D7""FADA FADd|
+""G""BdGd BdGd|""C""cBcd efge|""G""dBGB ""D7""cAFA|""G""G2GF G2:|","['1/2', '1/8', '1/4', '1/16']",1/8,1,Identify the unit note length of the provided ABC notation score.
+Steam-boat Hornpipe,"M:4/4
+K:G
+P:A
+(3def|""G""g2bg d2gd|""G""BcdB G2AB|""C""c2ec ""Am""A2cA|""D7""FGAB cdef|
+""G""g2bg d2gd|""G""BcdB G2AB|""C""cedc ""D7""BAGF|""G""A2G2 G2:|
+P:B
+Bc|""G""dBdB g2gd|""Am""ecec a2ag|""D7""fefd ""G""gfgb|""A7""agfe ""D7""defd|
+""G""g2bg d2gd|""G""BcdB G2AB|""C""cedc ""D7""BAGF|""G""A2G2 G2:|","['1/8', '1/4', '1/16', '1/2']",1/8,0,Identify the unit note length of the provided ABC notation score.
+Phillibelula,"P:AAB
+M:4/4
+K:D
+P:A
+|:fe|""D""dcdB A2GF|""G""EEFG ""A7""A2Bc|""D""dBAA ""A7""ddec|""D""d2f2 d2:|
+P:B
+|:de|""D""f2f2 ""Bm""f2gf|""Em""gfe2 ""A""e4|""Bm/f+""d2d2 ""E7/g+""d2ed|\
+""A7""cBA2 A2Bc|
+""D""dd(3cBA ""G""BcdA|""D""(3ded(3cBA ""G""Bc""D/f+""df|""Em""e2(3efg ""A7""a2(3ABc|\
+""D""d2f2 d2:|","['1/8', '1/16', '1/4', '1/2']",1/8,0,Identify the unit note length of the provided ABC notation score.
+Stepping Stone,"M:3/4
+K:G
+""G""e2d|B3/2A/2G|""Am""A2B|E3|""C""A2B|""D""E2F|""G""GBe|""D""d3|""G""e2d|B3/2A/2G|""Am""A2B|
+E3|""C""A2B|""D""E2F|""G""G3-|G3|""Em""g3/2f/2e|""D""f2d|""C""e3/2d/2c|""G""d2B|""C""c2e|\
+""G""d2B|""Am""B2E|
+""D""B/2d/2-d2|""Em""g3/2f/2e|""D""f2d|""C""e3/2d/2c|""E""d2B|""Am""c2e|""C""e3/2d/2c|""D""BcA\
+|""G""G3:|","['1/8', '1/16', '1/2', '1/4']",1/4,3,Identify the unit note length of the provided ABC notation score.
+A and A's Waltz,"M:3/4
+K:G
+e|:""G""d2B|""D""A3/2B/2c|""G""B2G|""D""A2e|""G""d2B|""D""A3/2B/2c|
+M:2/4
+""F""B=F|
+M:3/4
+""G""G2e:||:
+""C""g2e|""Bb""=f2d|""F""c2A|=F2e|""C""g2e|""Bb""=f2d|
+M:2/4
+""F""cA|
+M:3/4
+ [1 ""G""G2e:| [2""G""G2z||","['1/16', '1/4', '1/2', '1/8']",1/4,1,Identify the unit note length of the provided ABC notation score.
+London,"M:2/4
+K:A
+""A""e3/4a/4 e/2d/2|""D""B3/4A/4 ""A"" B/2c/2|""Bm""d3/4c/4 ""A"" d/2e/2|\
+""D""f/2g/2 a/2f/2|""A""e/2f/2 e/2c/2|""D""f/2g/2 a/2f/2|""A""e/2c/2 ""E""B/2c/2|""A""A/2A/4A/4 A:|
+""A""c/2e/2 A/2e/2|""E""B/2e/2 ^d/2e/2|""A""c/2e/2 A/2e/2|""E""B/2E/2 E|\
+""A""c/2e/2 A/2e/2|""B""B/2^d/2 f/2a/2|""A""g/2f/2 ""B7""e/2^d/2|""E""e/2e/4e/4 e:|
+""A""a/2a/2 a/2g/2|""D""f/2f/2 f/2e/2|""A""c/2e/2 A/2c/2|""E""B/2E/2 E|\
+""A""a/2a/2 a/2g/2|""F#m""f/2f/2 f/2c/2|
+""Bm""B/2A/2 ""E""B/2c/2|""A""A/2A/4A/4 A|""A""C/2E/2 A/2c/2|""D""F/2A/2 d/2f/2|\
+""A""e/2c/2 e/2c/2|
+""E""B/2E/2 E|""A""C/2E/2 A/2c/2|""D""F/2A/2 d/2f/2|""A""e/2c/2 ""E""B/2c/2|\
+""A""A/2A/4A/4 A|","['1/4', '1/8', '1/2', '1/16']",1/4,0,Identify the unit note length of the provided ABC notation score.
+The Trouper,"M:4/4
+K:G
+B,C ^C|:""G""DB B^A/2B/2|BG D^D|""A""EB B^A/2B/2|B2 E=F|""D""FB BA/2B/2|
+BA2^A|""G""BG ""Am""E_E|""D""DB, C^C|""G""DB B^A/2B/2|BG D^D|""A""EB B^A/2B/2|
+BG E=F|""D""FB BA/2B/2|dA2B|""G""G4|Gd B_B|""Am""AA _AG|""D""Fe dc|
+""G""Bf fe/2f/2|fd B_B|""Am""A3/2A/2 _AG|""D""Fe dc|""G""B4|""E""Bd B_B|""Am""AA _AG|
+""D""Fe dc|""G""Bf fe/2f/2|""E""f2 d2|""Am""Ge cA|""D""A/2^A/2B/2dB/2A|""G""G4|""G""Gzzz:|","['1/4', '1/8', '1/2', '1/16']",1/4,0,Identify the unit note length of the provided ABC notation score.
+Keel Row,"M:4/4
+K:A
+P:A
+ed|""A""c2Ac ""D""d2Bd|""A""c2Ac ""E7""BGEd|""A""c2Ac ""D""d2Bd|\
+""A""c/2A3/2""E7""B/2G3/2 ""A""A2:|
+P:B
+AB|""A""c/2e3/2ea ""D""f2ed|""A""c2Ac ""E7""BGEd|""A""c/2e3/2ea ""D""f2ed|\
+""A""c/2A3/2""E7""B/2G3/2 ""A""A2:|","['1/2', '1/16', '1/8', '1/4']",1/8,2,Identify the unit note length of the provided ABC notation score.
+City of Savannah,"M:4/4
+K:D
+P:A
+FG|""D""(3ABAFA dfaf|""G""gaba gfed|""Em""cded cdBc|""A7""ABGA FFG^G|
+""D""(3ABAFA dfaf|""G""gaba gfed|""A7""cbag fABc|""D""d2f2 d2:|
+P:B
+e2|""A""(3efece aec'e|""E7""be^ge ""A""aebe|""A""(3efece aec'e|""E7""be^ge ""A""a4|
+""A7""(3abaga eac2|""D""(3abafa daA2|""G""(3gagGg ""D""(3fgfAf|""A7""eABc ""D""d2:|","['1/16', '1/4', '1/8', '1/2']",1/8,2,Identify the unit note length of the provided ABC notation score.
+John Peel Variations,"M:4/4
+K:A
+cd|""A""e2e2 c2cd|""A""e2e2 c2Bc|""E7""d2d2 B2Bc|""E7""d2d2 B2cB|
+""A""A2A2 a3a|""D""g2f2 ""A""e2dc|""D""f2dB ""A""A2GA|""E7""B4 ""A""A2:|
+P:V 1
+cd|e2ec2EAc|e2ec2EGB|d2dB2EGB|d2dB2EcB|
+A2A2 a3g|fAdf eEAc|f2dB A2GA|B4 A2:|
+P:V 2
+cd|e2ec2EAc|eEec2EGB|dEdB2EGB|
+dEdB2EcB|A2A2 a3g|fAdf eEAc|f2dB A2GA|B4 A2:|
+P:V 3
+cd|eEeE cEAc|eEeE cEGB|dEdE BEGB|
+dEdE BEcB|A2A2 a3g|fAdf eEAc|f2dB A2GA|B4 A2:|
+P:V 4
+cd|eEeE cEAc|efed cEGB|dEdE BEGB|dedc BEcB|
+A/2B/2A/2G/2A/4B/4c/4d/4e/4f/4g/4a3g|fAdf eEAc|f2dB A2GA|B4 A2:|","['1/8', '1/2', '1/16', '1/4']",1/8,0,Identify the unit note length of the provided ABC notation score.
+The Blackbird,"M:4/4
+K:G
+(3DFA|""D""B2AF A2Bc|""Bm""dcdF ""A7""G2FG|""D""A2fe ""A7""dBAG|""D""F2D2 ""A7""D2(3DFA|
+""D""B2AF A2Bc|""Bm""dcdF ""A7""G2FG|""D""A2fe ""A7""dBAG|""D""F2D2 ""A7""D4|
+""D""defg a2af|""G""gfga ""A7""(3gagfe|""D""defg ""A7""abag|
+""D""f2d2 ""A7""d2fg|""D""a2fd ""G""g2fe|""D""dcdB ""G""g2fe|""D""d2A2 ""A7""ABAG|""D""F2D2 D2||","['1/8', '1/4', '1/2', '1/16']",1/8,0,Identify the unit note length of the provided ABC notation score.
+Fisher's Hornpipe,"M:4/4
+K:D
+P:A
+(3ABc|""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FDFD ""A7""GEGE|""D""FDFD ""A7""EA(3ABc|
+""D""dAFA ""G""GBAG|""D""FAFA ""G""GBAG|""D""FAdA ""A7""fedc|""D""d2f2 d2:|
+P:B
+cd|""A7""ecAc ecge|""D""fdAd fdaf|""A""ecAc ecgf|""E7""edcB ""A""A2A2|
+""G""BGDG BGdB|""D""AFDF AFdA|""G""BdcB ""A7""AGFE|""D""D2F2 D2:|","['1/2', '1/4', '1/8', '1/16']",1/8,2,Identify the unit note length of the provided ABC notation score.
+McCusker,"M:4/4
+K:D
+P:A
+A2|""D""(3ABAFA f2d2|""D""(3ABAFA f2da|""G""gfed ""A""c2cd|""E7""(3efe(3dcB ""A7""A4|
+""D""(3ABAFA f2d2|""D""(3ABAFA f2da|""G""gfed ""A7""cABc|""D""d2f2 d2:|
+P:B
+(3ABc|""D""dAdf a2f2|""D""dAdf a2fa|""G""gfed ""A""c2cd|""E7""(3efe(3dcB ""A7""A2(3ABc|
+""D""dAdf a2f2|""D""dAdf a2fa|""G""gfed ""A7""cABc|""D""d2f2 d2:|","['1/16', '1/4', '1/8', '1/2']",1/8,2,Identify the unit note length of the provided ABC notation score.
+Marquis of Lorne,"M:4/4
+K:G
+P:A
+ba|""G""gfge B2ed|""Am""cBcA E2AG|""D7""FGAB cdef|""G""(3gba(3gfe ""D7""d2ba|
+""G""gfge ""Em""B2ed|""Am""cBcA E2AG|""D7""FGAB cdef|""G""g2b2 g2:|
+P:B
+Bc|""G""dBgB dgBc|""G""(3dcBgB d2cB|""Am""cAfA cfAB|""Am""(3cBAfA ""D7""c2Bc|
+""G""dBgB dgBc|""G""(3dcBgB ""Em""d2cB|""Am""ceag ""D7""fdef|""G""g2b2 g2:|","['1/4', '1/16', '1/2', '1/8']",1/8,3,Identify the unit note length of the provided ABC notation score.
